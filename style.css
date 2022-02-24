@@ -5,3 +5,12 @@
 
 html {
   font-size: 10px; }
+
+body {
+  padding-top: 5rem; }
+
+.box {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column; }
